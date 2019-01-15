@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "935064642505",
+    "firebase_url": "https://smio-cf0e7.firebaseio.com",
+    "project_id": "smio-cf0e7",
+    "storage_bucket": "smio-cf0e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935064642505:android:3678304ea75b756d",
+        "android_client_info": {
+          "package_name": "org.deadlock.smio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935064642505-4cp8fuipmioe878ks218nsudonpan4uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.deadlock.smio",
+            "certificate_hash": "e8cda4b0190a27f58b021a99c88cc77c2f545f89"
+          }
+        },
+        {
+          "client_id": "935064642505-cjepb2i94deumkm1ljpj4k5bds3eqo6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJt0FcX7LXTjVo5Seya2naI1eZsQNPaa0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935064642505-cjepb2i94deumkm1ljpj4k5bds3eqo6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
